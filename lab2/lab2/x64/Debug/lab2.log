@@ -1,0 +1,7 @@
+﻿  ampule.cpp
+D:\02_University\2st Semester\OP\new\lab2\lab2\ampule.cpp(90,9): warning C4551: function call missing argument list
+D:\02_University\2st Semester\OP\new\lab2\lab2\ampule.cpp(131,9): warning C4551: function call missing argument list
+D:\02_University\2st Semester\OP\new\lab2\lab2\ampule.cpp(135,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  lab2.vcxproj -> D:\02_University\2st Semester\OP\new\lab2\x64\Debug\lab2.exe
